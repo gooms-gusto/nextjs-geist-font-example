@@ -1,0 +1,9 @@
+{"level":"info","message":"Sample data retrieved","service":"excel-api","timestamp":"2025-07-13T09:20:08.597Z"}
+{"level":"warn","message":"Database not available, using sample data","service":"excel-api","timestamp":"2025-07-13T09:20:21.724Z"}
+{"level":"info","message":"Sheet processed: Employee Data","service":"excel-api","timestamp":"2025-07-13T09:20:21.727Z"}
+{"level":"info","message":"Excel workbook created successfully with 1 sheets","service":"excel-api","timestamp":"2025-07-13T09:20:21.769Z"}
+{"level":"info","message":"Excel file generated from query: test-report.xlsx","service":"excel-api","timestamp":"2025-07-13T09:20:21.771Z"}
+{"level":"info","message":"Sheet processed: Dashboard","service":"excel-api","timestamp":"2025-07-13T09:21:20.718Z"}
+{"level":"info","message":"Excel workbook created successfully with 1 sheets","service":"excel-api","timestamp":"2025-07-13T09:21:20.727Z"}
+{"level":"info","message":"Excel file generated successfully: advanced-report.xlsx","service":"excel-api","timestamp":"2025-07-13T09:21:20.728Z"}
+{"level":"info","message":"Listed 2 templates","service":"excel-api","timestamp":"2025-07-13T09:21:53.276Z"}
